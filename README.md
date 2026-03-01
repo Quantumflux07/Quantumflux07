@@ -42,8 +42,13 @@ Currently strengthening my foundations in Machine Learning, data analysis, and p
 
 ## 📂 Featured Projects
 
-🔹 Student Marks Analyzer (Python + Pandas)  
-🔹 Data Visualization Mini Projects (Matplotlib)  
+🔹 Gold price prediction (Python + Pandas + Scikit-Learn )  
+
+🔹 Double Pendulum Simulation  
+   - Simulated chaotic motion using Python  
+   - Numerical methods for solving differential equations  
+   - Visualization using (Matplotlib)
+
 🔹 Machine Learning Beginner Models  
 
 (More projects coming soon...)
