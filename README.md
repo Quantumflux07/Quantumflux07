@@ -66,7 +66,7 @@ Currently strengthening my foundations in Machine Learning, data analysis, and p
 
 ## 📫 Connect With Me
 
-- LinkedIn:
+- LinkedIn:www.linkedin.com/in/poojan-soria
 
 ---
 
