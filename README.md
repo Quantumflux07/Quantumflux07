@@ -1,73 +1,84 @@
-# Hi 👋 I'm Poojan soria
-🎓 Computer Science Engineering Student  
-🤖 Aspiring AI / Machine Learning Engineer  
-📍 India  
+<h1 align="center">Hi, I'm Poojan Soria 👋</h1>
 
-I’m passionate about building intelligent systems using data.  
-Currently strengthening my foundations in Machine Learning, data analysis, and problem solving.
+<p align="center">
+  <em>CS Engineering Student &nbsp;·&nbsp; Aspiring ML Engineer &nbsp;·&nbsp; India</em>
+</p>
 
----
-
-## 🚀 Technical Skills
-
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📊 Data Science & Analysis
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### 🧠 Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- Supervised Learning (Basics)
-- Model Training & Evaluation(Basics)
-- Data Preprocessing and data munging
-
-### 🌐 Web (Basic Knowledge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  Passionate about building intelligent systems through data.<br>
+  Currently deepening my foundations in Machine Learning, data analysis, and algorithmic problem solving.
+</p>
 
 ---
 
-## 📌 Current Focus
+## 🛠️ Tech Stack
 
-- Strengthening core Machine Learning concepts  
-- Building real-world ML projects  
-- Improving Data Structures & Algorithms  
-- Writing clean and efficient Python code  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+| Area | Skills |
+|---|---|
+| 📊 Data Analysis | NumPy · Pandas · Matplotlib |
+| 🧠 Machine Learning | Scikit-Learn · TensorFlow · Supervised Learning |
+| ⚙️ ML Concepts | Model training & evaluation · Data preprocessing & munging |
+| 🌐 Web (Basics) | HTML · CSS |
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 Gold price prediction (Python + Pandas + Scikit-Learn )  
+### 🥇 Gold Price Prediction
+> Regression model to forecast gold prices using historical market data and feature engineering.  
+> `Python` `Pandas` `Scikit-Learn`
 
-🔹 Double Pendulum Simulation  
-   - Simulated chaotic motion using Python  
-   - Numerical methods for solving differential equations  
-   - Visualization using (Matplotlib)
+### 🔩 Double Pendulum Simulation
+> Visualized chaotic motion using numerical ODE solvers. Explores sensitivity to initial conditions.  
+> `Python` `Matplotlib` `Numerical Methods`
 
-🔹 Machine Learning Beginner Models  
-
-(More projects coming soon...)
+### 📦 ML Beginner Models
+> A growing collection of foundational ML models — classification, regression, and preprocessing pipelines.  
+> `Scikit-Learn` `Supervised Learning`
 
 ---
 
-## 📈 GitHub Goals for 2026
+## 🎯 Current Focus
 
-- Build 8–10 strong AI/ML projects  
-- Contribute to open-source  
-- Deploy at least one ML web application  
-- Maintain consistent coding practice  
+- 🔬 Strengthening core Machine Learning concepts
+- 🏗️ Building real-world ML projects  
+- 📐 Improving Data Structures & Algorithms
+- ✍️ Writing clean and efficient Python code
+
+---
+
+## 🚀 2026 Goals
+
+| Goal | Status |
+|---|---|
+| Build 8–10 strong AI/ML projects | 🔄 In progress |
+| Contribute to open-source | 📌 Planned |
+| Deploy at least one ML web application | 📌 Planned |
+| Maintain consistent coding practice | ✅ Ongoing |
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn:www.linkedin.com/in/poojan-soria
+<p>
+  <a href="https://www.linkedin.com/in/poojan-soria">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ Always open to learning, collaboration, and building impactful AI solutions.
+<p align="center">
+  <em>⭐ Always open to learning, collaboration, and building impactful AI solutions.</em>
+</p>
