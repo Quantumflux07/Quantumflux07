@@ -71,11 +71,13 @@
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/poojan-soria">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/poojan-soria">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/poojan_soria07">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 ---
 
