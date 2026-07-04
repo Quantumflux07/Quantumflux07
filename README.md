@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Poojan Soria 👋</h1>
 
 <p align="center">
-  <em>CS Engineering Student &nbsp;·&nbsp; Aspiring ML Engineer &nbsp;·&nbsp; India</em>
+  <em>CS Engineering Student &nbsp;·&nbsp; Aspiring AI-ML Engineer &nbsp;·&nbsp; India</em>
 </p>
 
 <p align="center">
