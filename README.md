@@ -1,21 +1,86 @@
 <h1 align="center">Hi, I'm Poojan Soria 👋</h1>
-# 💫 About Me:
-🤖 AI/ML Enthusiast<br>🐍 Python Developer<br>📊 Building Machine Learning Projects<br>🧠 Learning Computer Vision & Deep Learning<br>☕ Always curious and always learning
 
+<p align="center">
+  <em>CS Engineering Student &nbsp;·&nbsp; Aspiring AI-ML Engineer &nbsp;·&nbsp; India</em>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Quantumflux07&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Quantumflux07&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Quantumflux07&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-![](https://github-contributor-stats.vercel.app/api?username=Quantumflux07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  Passionate about building intelligent systems through data.<br>
+  Currently deepening my foundations in Machine Learning, data analysis, and algorithmic problem solving.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Quantumflux07&icon=1&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+| Area | Skills |
+|---|---|
+| 📊 Data Analysis | NumPy · Pandas · Matplotlib |
+| 🧠 Machine Learning | Scikit-Learn · TensorFlow · Supervised Learning |
+| ⚙️ ML Concepts | Model training & evaluation · Data preprocessing & munging |
+| 🌐 Web (Basics) | HTML · CSS |
+
+---
+
+## 📂 Featured Projects
+
+### 🥇 Gold Price Prediction
+> Regression model to forecast gold prices using historical market data and feature engineering.  
+> `Python` `Pandas` `Scikit-Learn`
+
+### 🔩 Double Pendulum Simulation
+> Visualized chaotic motion using numerical ODE solvers. Explores sensitivity to initial conditions.  
+> `Python` `Matplotlib` `Numerical Methods`
+
+### 📦 ML Beginner Models
+> A growing collection of foundational ML models — classification, regression, and preprocessing pipelines.  
+> `Scikit-Learn` `Supervised Learning`
+
+---
+
+## 🎯 Current Focus
+
+- 🔬 Strengthening core Machine Learning concepts
+- 🏗️ Building real-world ML projects  
+- 📐 Improving Data Structures & Algorithms
+- ✍️ Writing clean and efficient Python code
+
+---
+
+## 🚀 2026 Goals
+
+| Goal | Status |
+|---|---|
+| Build 8–10 strong AI/ML projects | 🔄 In progress |
+| Contribute to open-source | 📌 Planned |
+| Deploy at least one ML web application | 📌 Planned |
+| Maintain consistent coding practice | ✅ Ongoing |
+
+---
+
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/poojan-soria">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/poojan_soria07">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+---
+
+<p align="center">
+  <em>⭐ Always open to learning, collaboration, and building impactful AI solutions.</em>
+</p>
