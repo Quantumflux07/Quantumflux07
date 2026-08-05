@@ -35,7 +35,7 @@
 
 ## 📂 Featured Projects
 
-### 🥇 Gold Price Prediction
+### 🥇 Loan approval model
 > Regression model to forecast gold prices using historical market data and feature engineering.  
 > `Python` `Pandas` `Scikit-Learn`
 
